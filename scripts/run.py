@@ -734,7 +734,7 @@ def report():
         acc = result['a']
         spe = result['s']
         max_spe = result['m']
-        output.write('| {:.1f} | {:.1f} | [{}](verification/{}.out)| {}  |' \
+        output.write('| {:.1f} | {:.1f} | [{}](verification/{}.out)| {} |' \
                      ' {:.3f} |\n'
                      .format(spe, max_spe, dikt, dik, package, acc))
 
