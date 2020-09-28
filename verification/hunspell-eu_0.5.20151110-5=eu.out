@@ -1,0 +1,26 @@
+Word File                   hunspell-eu_0.5.20151110-5/eu
+Total Words Spelling        106346
+Positives Nuspell           106346
+Positives Hunspell          106346
+Negatives Nuspell           0
+Negatives Hunspell          0
+True Positives              106346
+True Negatives              0
+False Positives             0
+False Negatives             0
+True Positive Rate          1
+True Negative Rate          0
+False Positive Rate         0
+False Negative Rate         0
+Total Duration Nuspell      139847212
+Total Duration Hunspell     110807552
+Minimum Duration Nuspell    499
+Minimum Duration Hunspell   494
+Average Duration Nuspell    1315
+Average Duration Hunspell   1041
+Maximum Duration Nuspell    169127
+Maximum Duration Hunspell   88527
+Maximum Speedup             46.6973
+Accuracy                    1
+Precision                   1
+Speedup                     0.792347

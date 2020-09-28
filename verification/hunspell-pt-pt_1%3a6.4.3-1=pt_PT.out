@@ -1,0 +1,26 @@
+Word File                   wportuguese_20190329-3/portuguese
+Total Words Spelling        430988
+Positives Nuspell           424500
+Positives Hunspell          424500
+Negatives Nuspell           6488
+Negatives Hunspell          6488
+True Positives              424500
+True Negatives              6488
+False Positives             0
+False Negatives             0
+True Positive Rate          0.984946
+True Negative Rate          0.0150538
+False Positive Rate         0
+False Negative Rate         0
+Total Duration Nuspell      3829907680
+Total Duration Hunspell     2835167135
+Minimum Duration Nuspell    567
+Minimum Duration Hunspell   868
+Average Duration Nuspell    8886
+Average Duration Hunspell   6578
+Maximum Duration Nuspell    272003
+Maximum Duration Hunspell   228322
+Maximum Speedup             31.4669
+Accuracy                    1
+Precision                   1
+Speedup                     0.74027

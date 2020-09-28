@@ -1,0 +1,25 @@
+# Meta packages or dummy transitional packages that are empty
+hunspell-fr
+myspell-pt
+# Additional dictionaries without affix file
+hunspell-de-med
+hunspell-en-med
+# Myspell packages with identical files in related Hunspell package
+myspell-he
+myspell-nb
+myspell-nn
+myspell-el-gr
+# Outdated Myspell packages skipped for low performance and repo size
+myspell-de-de-1901
+myspell-eo
+myspell-es
+myspell-et
+myspell-fo
+myspell-fr
+myspell-tl
+# Skipped for low performance and repo size
+hunspell-sr
+# File format and/or character encoding errors
+myspell-hu
+hunspell-hu
+hunspell-pt-br

@@ -1,0 +1,26 @@
+Word File                   hunspell-kk_1.1-2/kk_KZ
+Total Words Spelling        54063
+Positives Nuspell           49043
+Positives Hunspell          54063
+Negatives Nuspell           5020
+Negatives Hunspell          0
+True Positives              49043
+True Negatives              0
+False Positives             0
+False Negatives             5020
+True Positive Rate          0.907145
+True Negative Rate          0
+False Positive Rate         0
+False Negative Rate         0.0928546
+Total Duration Nuspell      109457054
+Total Duration Hunspell     126070523
+Minimum Duration Nuspell    804
+Minimum Duration Hunspell   1122
+Average Duration Nuspell    2024
+Average Duration Hunspell   2331
+Maximum Duration Nuspell    47423
+Maximum Duration Hunspell   109574
+Maximum Speedup             40.4034
+Accuracy                    0.907145
+Precision                   1
+Speedup                     1.15178

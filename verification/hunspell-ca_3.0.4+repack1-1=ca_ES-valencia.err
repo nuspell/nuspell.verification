@@ -1,0 +1,150 @@
+INFO: I/O locale name=en_US.UTF-8, lang=en, country=US, enc=utf-8
+INFO: Pointed dictionary ../dict/hunspell-ca_3.0.4+repack1-1/ca_ES-valencia.{dic,aff}
+Nuspell warning: while parsing affix file line 684: SFX 00 r t/ ar
+Nuspell warning: no flags after slash in line 684
+Nuspell warning: while parsing affix file line 685: SFX 00 r da/ ar
+Nuspell warning: no flags after slash in line 685
+Nuspell warning: while parsing affix file line 686: SFX 00 r ts/ ar
+Nuspell warning: no flags after slash in line 686
+Nuspell warning: while parsing affix file line 687: SFX 00 r des/ ar
+Nuspell warning: no flags after slash in line 687
+Nuspell warning: while parsing affix file line 688: SFX 00 ar o/ ar
+Nuspell warning: no flags after slash in line 688
+Nuspell warning: while parsing affix file line 689: SFX 00 ar e/ ar
+Nuspell warning: no flags after slash in line 689
+Nuspell warning: while parsing affix file line 690: SFX 00 ar 0/ ar
+Nuspell warning: no flags after slash in line 690
+Nuspell warning: while parsing affix file line 691: SFX 00 ar es/ ar
+Nuspell warning: no flags after slash in line 691
+Nuspell warning: while parsing affix file line 692: SFX 00 r 0/ ar
+Nuspell warning: no flags after slash in line 692
+Nuspell warning: while parsing affix file line 693: SFX 00 ar em/ ar
+Nuspell warning: no flags after slash in line 693
+Nuspell warning: while parsing affix file line 694: SFX 00 r m/ ar
+Nuspell warning: no flags after slash in line 694
+Nuspell warning: while parsing affix file line 695: SFX 00 ar eu/ ar
+Nuspell warning: no flags after slash in line 695
+Nuspell warning: while parsing affix file line 696: SFX 00 r u/ ar
+Nuspell warning: no flags after slash in line 696
+Nuspell warning: while parsing affix file line 697: SFX 00 ar en/ ar
+Nuspell warning: no flags after slash in line 697
+Nuspell warning: while parsing affix file line 698: SFX 00 r va/ ar
+Nuspell warning: no flags after slash in line 698
+Nuspell warning: while parsing affix file line 699: SFX 00 r ves/ ar
+Nuspell warning: no flags after slash in line 699
+Nuspell warning: while parsing affix file line 700: SFX 00 r va/ ar
+Nuspell warning: no flags after slash in line 700
+Nuspell warning: while parsing affix file line 701: SFX 00 ar àvem/ ar
+Nuspell warning: no flags after slash in line 701
+Nuspell warning: while parsing affix file line 702: SFX 00 ar àveu/ ar
+Nuspell warning: no flags after slash in line 702
+Nuspell warning: while parsing affix file line 703: SFX 00 r ven/ ar
+Nuspell warning: no flags after slash in line 703
+Nuspell warning: while parsing affix file line 704: SFX 00 ar í/ ar
+Nuspell warning: no flags after slash in line 704
+Nuspell warning: while parsing affix file line 705: SFX 00 r res/ ar
+Nuspell warning: no flags after slash in line 705
+Nuspell warning: while parsing affix file line 706: SFX 00 ar à/ ar
+Nuspell warning: no flags after slash in line 706
+Nuspell warning: while parsing affix file line 707: SFX 00 ar àrem/ ar
+Nuspell warning: no flags after slash in line 707
+Nuspell warning: while parsing affix file line 708: SFX 00 ar àreu/ ar
+Nuspell warning: no flags after slash in line 708
+Nuspell warning: while parsing affix file line 709: SFX 00 r ren/ ar
+Nuspell warning: no flags after slash in line 709
+Nuspell warning: while parsing affix file line 710: SFX 00 r ré/ ar
+Nuspell warning: no flags after slash in line 710
+Nuspell warning: while parsing affix file line 711: SFX 00 r ràs/ ar
+Nuspell warning: no flags after slash in line 711
+Nuspell warning: while parsing affix file line 712: SFX 00 r rà/ ar
+Nuspell warning: no flags after slash in line 712
+Nuspell warning: while parsing affix file line 713: SFX 00 r rem/ ar
+Nuspell warning: no flags after slash in line 713
+Nuspell warning: while parsing affix file line 714: SFX 00 r reu/ ar
+Nuspell warning: no flags after slash in line 714
+Nuspell warning: while parsing affix file line 715: SFX 00 r ran/ ar
+Nuspell warning: no flags after slash in line 715
+Nuspell warning: while parsing affix file line 716: SFX 00 r ria/ ar
+Nuspell warning: no flags after slash in line 716
+Nuspell warning: while parsing affix file line 717: SFX 00 r ries/ ar
+Nuspell warning: no flags after slash in line 717
+Nuspell warning: while parsing affix file line 718: SFX 00 r ria/ ar
+Nuspell warning: no flags after slash in line 718
+Nuspell warning: while parsing affix file line 719: SFX 00 r ríem/ ar
+Nuspell warning: no flags after slash in line 719
+Nuspell warning: while parsing affix file line 720: SFX 00 r ríeu/ ar
+Nuspell warning: no flags after slash in line 720
+Nuspell warning: while parsing affix file line 721: SFX 00 r rien/ ar
+Nuspell warning: no flags after slash in line 721
+Nuspell warning: while parsing affix file line 722: SFX 00 ar e/ ar
+Nuspell warning: no flags after slash in line 722
+Nuspell warning: while parsing affix file line 723: SFX 00 ar i/ ar
+Nuspell warning: no flags after slash in line 723
+Nuspell warning: while parsing affix file line 724: SFX 00 ar es/ ar
+Nuspell warning: no flags after slash in line 724
+Nuspell warning: while parsing affix file line 725: SFX 00 ar is/ ar
+Nuspell warning: no flags after slash in line 725
+Nuspell warning: while parsing affix file line 726: SFX 00 ar e/ ar
+Nuspell warning: no flags after slash in line 726
+Nuspell warning: while parsing affix file line 727: SFX 00 ar i/ ar
+Nuspell warning: no flags after slash in line 727
+Nuspell warning: while parsing affix file line 728: SFX 00 ar em/ ar
+Nuspell warning: no flags after slash in line 728
+Nuspell warning: while parsing affix file line 729: SFX 00 ar eu/ ar
+Nuspell warning: no flags after slash in line 729
+Nuspell warning: while parsing affix file line 730: SFX 00 ar en/ ar
+Nuspell warning: no flags after slash in line 730
+Nuspell warning: while parsing affix file line 731: SFX 00 ar in/ ar
+Nuspell warning: no flags after slash in line 731
+Nuspell warning: while parsing affix file line 732: SFX 00 ar és/ ar
+Nuspell warning: no flags after slash in line 732
+Nuspell warning: while parsing affix file line 733: SFX 00 r ra/ ar
+Nuspell warning: no flags after slash in line 733
+Nuspell warning: while parsing affix file line 734: SFX 00 ar às/ ar
+Nuspell warning: no flags after slash in line 734
+Nuspell warning: while parsing affix file line 735: SFX 00 ar essis/ ar
+Nuspell warning: no flags after slash in line 735
+Nuspell warning: while parsing affix file line 736: SFX 00 r res/ ar
+Nuspell warning: no flags after slash in line 736
+Nuspell warning: while parsing affix file line 737: SFX 00 r ssis/ ar
+Nuspell warning: no flags after slash in line 737
+Nuspell warning: while parsing affix file line 738: SFX 00 ar esses/ ar
+Nuspell warning: no flags after slash in line 738
+Nuspell warning: while parsing affix file line 739: SFX 00 r sses/ ar
+Nuspell warning: no flags after slash in line 739
+Nuspell warning: while parsing affix file line 740: SFX 00 ar és/ ar
+Nuspell warning: no flags after slash in line 740
+Nuspell warning: while parsing affix file line 741: SFX 00 r ra/ ar
+Nuspell warning: no flags after slash in line 741
+Nuspell warning: while parsing affix file line 742: SFX 00 ar às/ ar
+Nuspell warning: no flags after slash in line 742
+Nuspell warning: while parsing affix file line 743: SFX 00 ar éssim/ ar
+Nuspell warning: no flags after slash in line 743
+Nuspell warning: while parsing affix file line 744: SFX 00 ar àrem/ ar
+Nuspell warning: no flags after slash in line 744
+Nuspell warning: while parsing affix file line 745: SFX 00 ar àssim/ ar
+Nuspell warning: no flags after slash in line 745
+Nuspell warning: while parsing affix file line 746: SFX 00 ar éssem/ ar
+Nuspell warning: no flags after slash in line 746
+Nuspell warning: while parsing affix file line 747: SFX 00 ar àssem/ ar
+Nuspell warning: no flags after slash in line 747
+Nuspell warning: while parsing affix file line 748: SFX 00 ar éssiu/ ar
+Nuspell warning: no flags after slash in line 748
+Nuspell warning: while parsing affix file line 749: SFX 00 ar àreu/ ar
+Nuspell warning: no flags after slash in line 749
+Nuspell warning: while parsing affix file line 750: SFX 00 ar àssiu/ ar
+Nuspell warning: no flags after slash in line 750
+Nuspell warning: while parsing affix file line 751: SFX 00 ar ésseu/ ar
+Nuspell warning: no flags after slash in line 751
+Nuspell warning: while parsing affix file line 752: SFX 00 ar àsseu/ ar
+Nuspell warning: no flags after slash in line 752
+Nuspell warning: while parsing affix file line 753: SFX 00 ar essin/ ar
+Nuspell warning: no flags after slash in line 753
+Nuspell warning: while parsing affix file line 754: SFX 00 r ren/ ar
+Nuspell warning: no flags after slash in line 754
+Nuspell warning: while parsing affix file line 755: SFX 00 r ssin/ ar
+Nuspell warning: no flags after slash in line 755
+Nuspell warning: while parsing affix file line 756: SFX 00 ar essen/ ar
+Nuspell warning: no flags after slash in line 756
+Nuspell warning: while parsing affix file line 757: SFX 00 r ssen/ ar
+Nuspell warning: no flags after slash in line 757

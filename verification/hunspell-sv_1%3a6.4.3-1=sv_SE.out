@@ -1,0 +1,26 @@
+Word File                   wswedish_1.4.5-2.2/swedish
+Total Words Spelling        121426
+Positives Nuspell           76830
+Positives Hunspell          76840
+Negatives Nuspell           44596
+Negatives Hunspell          44586
+True Positives              76830
+True Negatives              44586
+False Positives             0
+False Negatives             10
+True Positive Rate          0.632731
+True Negative Rate          0.367187
+False Positive Rate         0
+False Negative Rate         8.23547e-05
+Total Duration Nuspell      884186619
+Total Duration Hunspell     1949657112
+Minimum Duration Nuspell    185
+Minimum Duration Hunspell   1091
+Average Duration Nuspell    7281
+Average Duration Hunspell   16056
+Maximum Duration Nuspell    1292427
+Maximum Duration Hunspell   528652
+Maximum Speedup             198.24
+Accuracy                    0.999918
+Precision                   1
+Speedup                     2.20503

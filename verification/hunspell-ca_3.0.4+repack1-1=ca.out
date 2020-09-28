@@ -1,0 +1,26 @@
+Word File                   wcatalan_0.20111230b-12/catalan
+Total Words Spelling        612509
+Positives Nuspell           608950
+Positives Hunspell          608950
+Negatives Nuspell           3559
+Negatives Hunspell          3559
+True Positives              608950
+True Negatives              3559
+False Positives             0
+False Negatives             0
+True Positive Rate          0.994189
+True Negative Rate          0.00581053
+False Positive Rate         0
+False Negative Rate         0
+Total Duration Nuspell      11853872805
+Total Duration Hunspell     9056380148
+Minimum Duration Nuspell    558
+Minimum Duration Hunspell   1050
+Average Duration Nuspell    19352
+Average Duration Hunspell   14785
+Maximum Duration Nuspell    253907
+Maximum Duration Hunspell   249358
+Maximum Speedup             42.0601
+Accuracy                    1
+Precision                   1
+Speedup                     0.764002

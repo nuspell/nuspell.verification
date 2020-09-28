@@ -1,0 +1,26 @@
+Word File                   wswiss_20161207-7/swiss
+Total Words Spelling        356108
+Positives Nuspell           356022
+Positives Hunspell          356022
+Negatives Nuspell           86
+Negatives Hunspell          86
+True Positives              356022
+True Negatives              86
+False Positives             0
+False Negatives             0
+True Positive Rate          0.999759
+True Negative Rate          0.0002415
+False Positive Rate         0
+False Negative Rate         0
+Total Duration Nuspell      6054831894
+Total Duration Hunspell     3144247287
+Minimum Duration Nuspell    513
+Minimum Duration Hunspell   489
+Average Duration Nuspell    17002
+Average Duration Hunspell   8829
+Maximum Duration Nuspell    594582
+Maximum Duration Hunspell   260032
+Maximum Speedup             22.2692
+Accuracy                    1
+Precision                   1
+Speedup                     0.519296

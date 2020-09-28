@@ -1,0 +1,26 @@
+Word File                   hunspell-ro_1%3a6.4.3-1/ro_RO
+Total Words Spelling        173206
+Positives Nuspell           173206
+Positives Hunspell          173206
+Negatives Nuspell           0
+Negatives Hunspell          0
+True Positives              173206
+True Negatives              0
+False Positives             0
+False Negatives             0
+True Positive Rate          1
+True Negative Rate          0
+False Positive Rate         0
+False Negative Rate         0
+Total Duration Nuspell      199640634
+Total Duration Hunspell     358922309
+Minimum Duration Nuspell    545
+Minimum Duration Hunspell   880
+Average Duration Nuspell    1152
+Average Duration Hunspell   2072
+Maximum Duration Nuspell    844195
+Maximum Duration Hunspell   50090
+Maximum Speedup             44.1248
+Accuracy                    1
+Precision                   1
+Speedup                     1.79784

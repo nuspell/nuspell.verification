@@ -1,0 +1,26 @@
+Word File                   hunspell-he_1%3a6.4.3-1/he_IL
+Total Words Spelling        469730
+Positives Nuspell           457314
+Positives Hunspell          457314
+Negatives Nuspell           12416
+Negatives Hunspell          12416
+True Positives              457314
+True Negatives              12416
+False Positives             0
+False Negatives             0
+True Positive Rate          0.973568
+True Negative Rate          0.0264322
+False Positive Rate         0
+False Negative Rate         0
+Total Duration Nuspell      567762761
+Total Duration Hunspell     971396993
+Minimum Duration Nuspell    614
+Minimum Duration Hunspell   1124
+Average Duration Nuspell    1208
+Average Duration Hunspell   2067
+Maximum Duration Nuspell    33511
+Maximum Duration Hunspell   51640
+Maximum Speedup             30.5952
+Accuracy                    1
+Precision                   1
+Speedup                     1.71092

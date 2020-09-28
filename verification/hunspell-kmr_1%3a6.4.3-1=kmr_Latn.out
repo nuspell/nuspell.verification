@@ -1,0 +1,26 @@
+Word File                   hunspell-kmr_1%3a6.4.3-1/kmr_Latn
+Total Words Spelling        4735
+Positives Nuspell           4735
+Positives Hunspell          4735
+Negatives Nuspell           0
+Negatives Hunspell          0
+True Positives              4735
+True Negatives              0
+False Positives             0
+False Negatives             0
+True Positive Rate          1
+True Negative Rate          0
+False Positive Rate         0
+False Negative Rate         0
+Total Duration Nuspell      5358195
+Total Duration Hunspell     9245652
+Minimum Duration Nuspell    557
+Minimum Duration Hunspell   1008
+Average Duration Nuspell    1131
+Average Duration Hunspell   1952
+Maximum Duration Nuspell    14071
+Maximum Duration Hunspell   19273
+Maximum Speedup             14.2905
+Accuracy                    1
+Precision                   1
+Speedup                     1.72552

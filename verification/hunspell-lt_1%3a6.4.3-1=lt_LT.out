@@ -1,0 +1,26 @@
+Word File                   hunspell-lt_1%3a6.4.3-1/lt_LT
+Total Words Spelling        82627
+Positives Nuspell           82627
+Positives Hunspell          82627
+Negatives Nuspell           0
+Negatives Hunspell          0
+True Positives              82627
+True Negatives              0
+False Positives             0
+False Negatives             0
+True Positive Rate          1
+True Negative Rate          0
+False Positive Rate         0
+False Negative Rate         0
+Total Duration Nuspell      89114860
+Total Duration Hunspell     77343412
+Minimum Duration Nuspell    530
+Minimum Duration Hunspell   513
+Average Duration Nuspell    1078
+Average Duration Hunspell   936
+Maximum Duration Nuspell    22264
+Maximum Duration Hunspell   24297
+Maximum Speedup             24.8436
+Accuracy                    1
+Precision                   1
+Speedup                     0.867907

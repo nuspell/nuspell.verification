@@ -1,0 +1,26 @@
+Word File                   hunspell-bs_1%3a6.4.3-1/bs_BA
+Total Words Spelling        30441
+Positives Nuspell           30441
+Positives Hunspell          30441
+Negatives Nuspell           0
+Negatives Hunspell          0
+True Positives              30441
+True Negatives              0
+False Positives             0
+False Negatives             0
+True Positive Rate          1
+True Negative Rate          0
+False Positive Rate         0
+False Negative Rate         0
+Total Duration Nuspell      33249710
+Total Duration Hunspell     28280561
+Minimum Duration Nuspell    546
+Minimum Duration Hunspell   489
+Average Duration Nuspell    1092
+Average Duration Hunspell   929
+Maximum Duration Nuspell    45269
+Maximum Duration Hunspell   28599
+Maximum Speedup             25.5348
+Accuracy                    1
+Precision                   1
+Speedup                     0.850551

@@ -1,0 +1,26 @@
+Word File                   hunspell-dz_0.1.0-1/dz
+Total Words Spelling        401
+Positives Nuspell           371
+Positives Hunspell          371
+Negatives Nuspell           30
+Negatives Hunspell          30
+True Positives              371
+True Negatives              30
+False Positives             0
+False Negatives             0
+True Positive Rate          0.925187
+True Negative Rate          0.074813
+False Positive Rate         0
+False Negative Rate         0
+Total Duration Nuspell      613953
+Total Duration Hunspell     1421396
+Minimum Duration Nuspell    681
+Minimum Duration Hunspell   1645
+Average Duration Nuspell    1531
+Average Duration Hunspell   3544
+Maximum Duration Nuspell    19700
+Maximum Duration Hunspell   7605
+Maximum Speedup             4.3439
+Accuracy                    1
+Precision                   1
+Speedup                     2.31515

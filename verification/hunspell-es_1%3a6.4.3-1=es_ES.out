@@ -1,0 +1,26 @@
+Word File                   wspanish_1.0.28/spanish
+Total Words Spelling        86016
+Positives Nuspell           60904
+Positives Hunspell          60904
+Negatives Nuspell           25112
+Negatives Hunspell          25112
+True Positives              60904
+True Negatives              25112
+False Positives             0
+False Negatives             0
+True Positive Rate          0.708054
+True Negative Rate          0.291946
+False Positive Rate         0
+False Negative Rate         0
+Total Duration Nuspell      929838085
+Total Duration Hunspell     603907123
+Minimum Duration Nuspell    689
+Minimum Duration Hunspell   1190
+Average Duration Nuspell    10810
+Average Duration Hunspell   7020
+Maximum Duration Nuspell    189737
+Maximum Duration Hunspell   231961
+Maximum Speedup             36.4969
+Accuracy                    1
+Precision                   1
+Speedup                     0.649476

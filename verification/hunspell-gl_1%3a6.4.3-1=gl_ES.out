@@ -1,0 +1,26 @@
+Word File                   wgalician-minimos_0.5-46/galician-minimos
+Total Words Spelling        515385
+Positives Nuspell           198326
+Positives Hunspell          198326
+Negatives Nuspell           317059
+Negatives Hunspell          317059
+True Positives              198326
+True Negatives              317059
+False Positives             0
+False Negatives             0
+True Positive Rate          0.384811
+True Negative Rate          0.615189
+False Positive Rate         0
+False Negative Rate         0
+Total Duration Nuspell      92980643084
+Total Duration Hunspell     60024948591
+Minimum Duration Nuspell    712
+Minimum Duration Hunspell   1244
+Average Duration Nuspell    180410
+Average Duration Hunspell   116466
+Maximum Duration Nuspell    1573661
+Maximum Duration Hunspell   1678259
+Maximum Speedup             25.4013
+Accuracy                    1
+Precision                   1
+Speedup                     0.645564

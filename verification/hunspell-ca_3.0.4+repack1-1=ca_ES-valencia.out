@@ -1,0 +1,26 @@
+Word File                   hunspell-ca_3.0.4+repack1-1/ca_ES-valencia
+Total Words Spelling        192823
+Positives Nuspell           192742
+Positives Hunspell          192742
+Negatives Nuspell           81
+Negatives Hunspell          81
+True Positives              192742
+True Negatives              81
+False Positives             0
+False Negatives             0
+True Positive Rate          0.99958
+True Negative Rate          0.000420074
+False Positive Rate         0
+False Negative Rate         0
+Total Duration Nuspell      235357121
+Total Duration Hunspell     406783842
+Minimum Duration Nuspell    609
+Minimum Duration Hunspell   939
+Average Duration Nuspell    1220
+Average Duration Hunspell   2109
+Maximum Duration Nuspell    22783
+Maximum Duration Hunspell   30843
+Maximum Speedup             28.5848
+Accuracy                    1
+Precision                   1
+Speedup                     1.72837

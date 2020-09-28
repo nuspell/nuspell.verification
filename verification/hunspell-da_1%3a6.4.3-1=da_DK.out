@@ -1,0 +1,26 @@
+Word File                   wdanish_1.6.36-11/danish
+Total Words Spelling        313013
+Positives Nuspell           294221
+Positives Hunspell          295019
+Negatives Nuspell           18792
+Negatives Hunspell          17994
+True Positives              294221
+True Negatives              17994
+False Positives             0
+False Negatives             798
+True Positive Rate          0.939964
+True Negative Rate          0.0574864
+False Positive Rate         0
+False Negative Rate         0.00254941
+Total Duration Nuspell      12400263410
+Total Duration Hunspell     5609358592
+Minimum Duration Nuspell    648
+Minimum Duration Hunspell   916
+Average Duration Nuspell    39615
+Average Duration Hunspell   17920
+Maximum Duration Nuspell    2578400
+Maximum Duration Hunspell   886246
+Maximum Speedup             247.109
+Accuracy                    0.997451
+Precision                   1
+Speedup                     0.452358

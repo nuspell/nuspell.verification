@@ -1,0 +1,26 @@
+Word File                   hunspell-lo_1%3a6.4.3-1/lo_LA
+Total Words Spelling        11206
+Positives Nuspell           11206
+Positives Hunspell          11206
+Negatives Nuspell           0
+Negatives Hunspell          0
+True Positives              11206
+True Negatives              0
+False Positives             0
+False Negatives             0
+True Positive Rate          1
+True Negative Rate          0
+False Positive Rate         0
+False Negative Rate         0
+Total Duration Nuspell      13452262
+Total Duration Hunspell     23258005
+Minimum Duration Nuspell    626
+Minimum Duration Hunspell   1171
+Average Duration Nuspell    1200
+Average Duration Hunspell   2075
+Maximum Duration Nuspell    25008
+Maximum Duration Hunspell   16445
+Maximum Speedup             16.5943
+Accuracy                    1
+Precision                   1
+Speedup                     1.72893

@@ -1,0 +1,26 @@
+Word File                   wcanadian_2018.04.16-1/canadian-english
+Total Words Spelling        102332
+Positives Nuspell           99784
+Positives Hunspell          99784
+Negatives Nuspell           2548
+Negatives Hunspell          2548
+True Positives              99784
+True Negatives              2548
+False Positives             0
+False Negatives             0
+True Positive Rate          0.975101
+True Negative Rate          0.0248993
+False Positive Rate         0
+False Negative Rate         0
+Total Duration Nuspell      343660012
+Total Duration Hunspell     299729999
+Minimum Duration Nuspell    882
+Minimum Duration Hunspell   1016
+Average Duration Nuspell    3358
+Average Duration Hunspell   2928
+Maximum Duration Nuspell    130847
+Maximum Duration Hunspell   131530
+Maximum Speedup             79.4629
+Accuracy                    1
+Precision                   1
+Speedup                     0.87217

@@ -1,0 +1,26 @@
+Word File                   hunspell-bo_0.4.0-1/bo
+Total Words Spelling        376
+Positives Nuspell           345
+Positives Hunspell          345
+Negatives Nuspell           31
+Negatives Hunspell          31
+True Positives              345
+True Negatives              31
+False Positives             0
+False Negatives             0
+True Positive Rate          0.917553
+True Negative Rate          0.0824468
+False Positive Rate         0
+False Negative Rate         0
+Total Duration Nuspell      549957
+Total Duration Hunspell     1355146
+Minimum Duration Nuspell    638
+Minimum Duration Hunspell   1681
+Average Duration Nuspell    1462
+Average Duration Hunspell   3604
+Maximum Duration Nuspell    32489
+Maximum Duration Hunspell   18218
+Maximum Speedup             22.9157
+Accuracy                    1
+Precision                   1
+Speedup                     2.46409

@@ -1,0 +1,26 @@
+Word File                   wgaelic_0.50-13/gaelic
+Total Words Spelling        15670
+Positives Nuspell           12922
+Positives Hunspell          12922
+Negatives Nuspell           2748
+Negatives Hunspell          2748
+True Positives              12922
+True Negatives              2748
+False Positives             0
+False Negatives             0
+True Positive Rate          0.824633
+True Negative Rate          0.175367
+False Positive Rate         0
+False Negative Rate         0
+Total Duration Nuspell      36166265
+Total Duration Hunspell     36859626
+Minimum Duration Nuspell    814
+Minimum Duration Hunspell   1063
+Average Duration Nuspell    2307
+Average Duration Hunspell   2352
+Maximum Duration Nuspell    33608
+Maximum Duration Hunspell   29746
+Maximum Speedup             22.6205
+Accuracy                    1
+Precision                   1
+Speedup                     1.01917

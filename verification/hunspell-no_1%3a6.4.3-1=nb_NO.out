@@ -1,0 +1,26 @@
+Word File                   wnorwegian_2.2-4/bokmaal
+Total Words Spelling        935405
+Positives Nuspell           737900
+Positives Hunspell          737891
+Negatives Nuspell           197505
+Negatives Hunspell          197514
+True Positives              737891
+True Negatives              197505
+False Positives             9
+False Negatives             0
+True Positive Rate          0.788847
+True Negative Rate          0.211144
+False Positive Rate         9.6215e-06
+False Negative Rate         0
+Total Duration Nuspell      4082816773
+Total Duration Hunspell     4558073978
+Minimum Duration Nuspell    174
+Minimum Duration Hunspell   540
+Average Duration Nuspell    4364
+Average Duration Hunspell   4872
+Maximum Duration Nuspell    396910
+Maximum Duration Hunspell   166716
+Maximum Speedup             151.954
+Accuracy                    0.99999
+Precision                   0.999988
+Speedup                     1.1164

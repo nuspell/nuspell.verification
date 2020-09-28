@@ -1,0 +1,26 @@
+Word File                   wamerican_2018.04.16-1/american-english
+Total Words Spelling        102401
+Positives Nuspell           99744
+Positives Hunspell          99744
+Negatives Nuspell           2657
+Negatives Hunspell          2657
+True Positives              99744
+True Negatives              2657
+False Positives             0
+False Negatives             0
+True Positive Rate          0.974053
+True Negative Rate          0.025947
+False Positive Rate         0
+False Negative Rate         0
+Total Duration Nuspell      352824462
+Total Duration Hunspell     306320177
+Minimum Duration Nuspell    912
+Minimum Duration Hunspell   1047
+Average Duration Nuspell    3445
+Average Duration Hunspell   2991
+Maximum Duration Nuspell    40100
+Maximum Duration Hunspell   42520
+Maximum Speedup             13.023
+Accuracy                    1
+Precision                   1
+Speedup                     0.868194

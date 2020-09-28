@@ -1,0 +1,26 @@
+Word File                   hunspell-de-at-frami_1%3a6.4.3-1/de_AT_frami
+Total Words Spelling        250808
+Positives Nuspell           169868
+Positives Hunspell          169865
+Negatives Nuspell           80940
+Negatives Hunspell          80943
+True Positives              169865
+True Negatives              80940
+False Positives             3
+False Negatives             0
+True Positive Rate          0.677271
+True Negative Rate          0.322717
+False Positive Rate         1.19613e-05
+False Negative Rate         0
+Total Duration Nuspell      5715282240
+Total Duration Hunspell     2463280694
+Minimum Duration Nuspell    574
+Minimum Duration Hunspell   496
+Average Duration Nuspell    22787
+Average Duration Hunspell   9821
+Maximum Duration Nuspell    438825
+Maximum Duration Hunspell   166111
+Maximum Speedup             16.3527
+Accuracy                    0.999988
+Precision                   0.999982
+Speedup                     0.430999

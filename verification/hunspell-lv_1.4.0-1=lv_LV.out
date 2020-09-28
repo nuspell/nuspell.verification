@@ -1,0 +1,26 @@
+Word File                   hunspell-lv_1.4.0-1/lv_LV
+Total Words Spelling        66480
+Positives Nuspell           66392
+Positives Hunspell          66392
+Negatives Nuspell           88
+Negatives Hunspell          88
+True Positives              66392
+True Negatives              88
+False Positives             0
+False Negatives             0
+True Positive Rate          0.998676
+True Negative Rate          0.00132371
+False Positive Rate         0
+False Negative Rate         0
+Total Duration Nuspell      84585834
+Total Duration Hunspell     145968479
+Minimum Duration Nuspell    605
+Minimum Duration Hunspell   1097
+Average Duration Nuspell    1272
+Average Duration Hunspell   2195
+Maximum Duration Nuspell    82152
+Maximum Duration Hunspell   65098
+Maximum Speedup             20.1126
+Accuracy                    1
+Precision                   1
+Speedup                     1.72568

@@ -1,0 +1,26 @@
+Word File                   wdutch_1%3a2.10-6/dutch
+Total Words Spelling        345339
+Positives Nuspell           343339
+Positives Hunspell          343340
+Negatives Nuspell           2000
+Negatives Hunspell          1999
+True Positives              343339
+True Negatives              1999
+False Positives             0
+False Negatives             1
+True Positive Rate          0.994209
+True Negative Rate          0.00578852
+False Positive Rate         0
+False Negative Rate         2.89571e-06
+Total Duration Nuspell      6196489972
+Total Duration Hunspell     5016741783
+Minimum Duration Nuspell    768
+Minimum Duration Hunspell   960
+Average Duration Nuspell    17943
+Average Duration Hunspell   14527
+Maximum Duration Nuspell    839652
+Maximum Duration Hunspell   666948
+Maximum Speedup             40.2904
+Accuracy                    0.999997
+Precision                   1
+Speedup                     0.80961

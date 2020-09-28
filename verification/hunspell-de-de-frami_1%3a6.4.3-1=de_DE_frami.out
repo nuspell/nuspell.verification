@@ -1,0 +1,26 @@
+Word File                   wngerman_20161207-7/ngerman
+Total Words Spelling        356008
+Positives Nuspell           355922
+Positives Hunspell          355922
+Negatives Nuspell           86
+Negatives Hunspell          86
+True Positives              355922
+True Negatives              86
+False Positives             0
+False Negatives             0
+True Positive Rate          0.999758
+True Negative Rate          0.000241568
+False Positive Rate         0
+False Negative Rate         0
+Total Duration Nuspell      5914300237
+Total Duration Hunspell     3040587624
+Minimum Duration Nuspell    540
+Minimum Duration Hunspell   485
+Average Duration Nuspell    16612
+Average Duration Hunspell   8540
+Maximum Duration Nuspell    754404
+Maximum Duration Hunspell   268156
+Maximum Speedup             42.9703
+Accuracy                    1
+Precision                   1
+Speedup                     0.514108

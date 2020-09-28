@@ -1,0 +1,26 @@
+Word File                   wklingon_1.0.7/klingon-latin
+Total Words Spelling        3962
+Positives Nuspell           3962
+Positives Hunspell          3962
+Negatives Nuspell           0
+Negatives Hunspell          0
+True Positives              3962
+True Negatives              0
+False Positives             0
+False Negatives             0
+True Positive Rate          1
+True Negative Rate          0
+False Positive Rate         0
+False Negative Rate         0
+Total Duration Nuspell      6387487
+Total Duration Hunspell     6713773
+Minimum Duration Nuspell    808
+Minimum Duration Hunspell   1021
+Average Duration Nuspell    1612
+Average Duration Hunspell   1694
+Maximum Duration Nuspell    25709
+Maximum Duration Hunspell   14381
+Maximum Speedup             15.2503
+Accuracy                    1
+Precision                   1
+Speedup                     1.05108

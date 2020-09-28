@@ -1,0 +1,4 @@
+INFO: I/O locale name=en_US.UTF-8, lang=en, country=US, enc=utf-8
+INFO: Pointed dictionary ../dict/hunspell-th_1%3a6.4.3-1/th_TH.{dic,aff}
+Nuspell warning: bytes above 127 in flags in UTF-8 file are treated as lone bytes for backward compatibility. That means if in the flags you have ONE character above ASCII, it may be interpreted as 2, 3, or 4 flags. Please update dictionary and affix files to use FLAG UTF-8 and make the file valid UTF-8 if it is not already. Warning in line 18370
+Nuspell warning: bytes above 127 in flags in UTF-8 file are treated as lone bytes for backward compatibility. That means if in the flags you have ONE character above ASCII, it may be interpreted as 2, 3, or 4 flags. Please update dictionary and affix files to use FLAG UTF-8 and make the file valid UTF-8 if it is not already. Warning in line 30336

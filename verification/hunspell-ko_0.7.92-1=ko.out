@@ -1,0 +1,26 @@
+Word File                   hunspell-ko_0.7.92-1/ko
+Total Words Spelling        99696
+Positives Nuspell           99678
+Positives Hunspell          99677
+Negatives Nuspell           18
+Negatives Hunspell          19
+True Positives              99677
+True Negatives              18
+False Positives             1
+False Negatives             0
+True Positive Rate          0.999809
+True Negative Rate          0.000180549
+False Positive Rate         1.00305e-05
+False Negative Rate         0
+Total Duration Nuspell      792159125
+Total Duration Hunspell     732556041
+Minimum Duration Nuspell    790
+Minimum Duration Hunspell   757
+Average Duration Nuspell    7945
+Average Duration Hunspell   7347
+Maximum Duration Nuspell    96841
+Maximum Duration Hunspell   69807
+Maximum Speedup             9.19835
+Accuracy                    0.99999
+Precision                   0.99999
+Speedup                     0.924759

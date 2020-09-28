@@ -1,0 +1,26 @@
+Word File                   hunspell-en-za_1%3a6.4.3-1/en_ZA
+Total Words Spelling        53539
+Positives Nuspell           53539
+Positives Hunspell          53539
+Negatives Nuspell           0
+Negatives Hunspell          0
+True Positives              53539
+True Negatives              0
+False Positives             0
+False Negatives             0
+True Positive Rate          1
+True Negative Rate          0
+False Positive Rate         0
+False Negative Rate         0
+Total Duration Nuspell      147612301
+Total Duration Hunspell     125043833
+Minimum Duration Nuspell    842
+Minimum Duration Hunspell   918
+Average Duration Nuspell    2757
+Average Duration Hunspell   2335
+Maximum Duration Nuspell    83692
+Maximum Duration Hunspell   32347
+Maximum Speedup             16.085
+Accuracy                    1
+Precision                   1
+Speedup                     0.84711

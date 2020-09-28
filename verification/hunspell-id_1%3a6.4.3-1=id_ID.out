@@ -1,0 +1,26 @@
+Word File                   hunspell-id_1%3a6.4.3-1/id_ID
+Total Words Spelling        31099
+Positives Nuspell           30865
+Positives Hunspell          30865
+Negatives Nuspell           234
+Negatives Hunspell          234
+True Positives              30865
+True Negatives              234
+False Positives             0
+False Negatives             0
+True Positive Rate          0.992476
+True Negative Rate          0.00752436
+False Positive Rate         0
+False Negative Rate         0
+Total Duration Nuspell      37147216
+Total Duration Hunspell     31103192
+Minimum Duration Nuspell    568
+Minimum Duration Hunspell   568
+Average Duration Nuspell    1194
+Average Duration Hunspell   1000
+Maximum Duration Nuspell    157183
+Maximum Duration Hunspell   69166
+Maximum Speedup             21.3038
+Accuracy                    1
+Precision                   1
+Speedup                     0.837295

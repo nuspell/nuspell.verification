@@ -1,0 +1,26 @@
+Word File                   hunspell-af_1%3a6.4.3-1/af_ZA
+Total Words Spelling        105712
+Positives Nuspell           105705
+Positives Hunspell          105705
+Negatives Nuspell           7
+Negatives Hunspell          7
+True Positives              105705
+True Negatives              7
+False Positives             0
+False Negatives             0
+True Positive Rate          0.999934
+True Negative Rate          6.62176e-05
+False Positive Rate         0
+False Negative Rate         0
+Total Duration Nuspell      127349012
+Total Duration Hunspell     218146944
+Minimum Duration Nuspell    274
+Minimum Duration Hunspell   630
+Average Duration Nuspell    1204
+Average Duration Hunspell   2063
+Maximum Duration Nuspell    47830
+Maximum Duration Hunspell   54194
+Maximum Speedup             48.5175
+Accuracy                    1
+Precision                   1
+Speedup                     1.71298

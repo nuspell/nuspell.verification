@@ -1,0 +1,26 @@
+Word File                   hunspell-ar_3.2-1.1/ar
+Total Words Spelling        108363
+Positives Nuspell           108363
+Positives Hunspell          108363
+Negatives Nuspell           0
+Negatives Hunspell          0
+True Positives              108363
+True Negatives              0
+False Positives             0
+False Negatives             0
+True Positive Rate          1
+True Negative Rate          0
+False Positive Rate         0
+False Negative Rate         0
+Total Duration Nuspell      302385425
+Total Duration Hunspell     542581564
+Minimum Duration Nuspell    1007
+Minimum Duration Hunspell   1635
+Average Duration Nuspell    2790
+Average Duration Hunspell   5007
+Maximum Duration Nuspell    83774
+Maximum Duration Hunspell   98981
+Maximum Speedup             68.7846
+Accuracy                    1
+Precision                   1
+Speedup                     1.79434

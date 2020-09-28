@@ -1,0 +1,26 @@
+Word File                   hunspell-br_0.12-2/br_FR
+Total Words Spelling        464631
+Positives Nuspell           464630
+Positives Hunspell          464630
+Negatives Nuspell           1
+Negatives Hunspell          1
+True Positives              464630
+True Negatives              1
+False Positives             0
+False Negatives             0
+True Positive Rate          0.999998
+True Negative Rate          2.15225e-06
+False Positive Rate         0
+False Negative Rate         0
+Total Duration Nuspell      544194769
+Total Duration Hunspell     939381899
+Minimum Duration Nuspell    568
+Minimum Duration Hunspell   756
+Average Duration Nuspell    1171
+Average Duration Hunspell   2021
+Maximum Duration Nuspell    48640
+Maximum Duration Hunspell   79908
+Maximum Speedup             37.4684
+Accuracy                    1
+Precision                   1
+Speedup                     1.72619

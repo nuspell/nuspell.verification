@@ -1,0 +1,26 @@
+Word File                   hunspell-en-au_1%3a2018.04.16-1/en_AU
+Total Words Spelling        49637
+Positives Nuspell           49634
+Positives Hunspell          49634
+Negatives Nuspell           3
+Negatives Hunspell          3
+True Positives              49634
+True Negatives              3
+False Positives             0
+False Negatives             0
+True Positive Rate          0.99994
+True Negative Rate          6.04388e-05
+False Positive Rate         0
+False Negative Rate         0
+Total Duration Nuspell      97300963
+Total Duration Hunspell     102457547
+Minimum Duration Nuspell    363
+Minimum Duration Hunspell   708
+Average Duration Nuspell    1960
+Average Duration Hunspell   2064
+Maximum Duration Nuspell    20198
+Maximum Duration Hunspell   27045
+Maximum Speedup             10.7835
+Accuracy                    1
+Precision                   1
+Speedup                     1.053

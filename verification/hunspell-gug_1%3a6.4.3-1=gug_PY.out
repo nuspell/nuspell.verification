@@ -1,0 +1,26 @@
+Word File                   hunspell-gug_1%3a6.4.3-1/gug_PY
+Total Words Spelling        4215
+Positives Nuspell           4215
+Positives Hunspell          4215
+Negatives Nuspell           0
+Negatives Hunspell          0
+True Positives              4215
+True Negatives              0
+False Positives             0
+False Negatives             0
+True Positive Rate          1
+True Negative Rate          0
+False Positive Rate         0
+False Negative Rate         0
+Total Duration Nuspell      5089268
+Total Duration Hunspell     8546399
+Minimum Duration Nuspell    570
+Minimum Duration Hunspell   1068
+Average Duration Nuspell    1207
+Average Duration Hunspell   2027
+Maximum Duration Nuspell    31376
+Maximum Duration Hunspell   29551
+Maximum Speedup             26.8
+Accuracy                    1
+Precision                   1
+Speedup                     1.6793

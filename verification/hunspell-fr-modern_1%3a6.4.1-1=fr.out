@@ -1,0 +1,26 @@
+Word File                   wfrench_1.2.5-1/french
+Total Words Spelling        348359
+Positives Nuspell           330694
+Positives Hunspell          330695
+Negatives Nuspell           17665
+Negatives Hunspell          17664
+True Positives              330694
+True Negatives              17664
+False Positives             0
+False Negatives             1
+True Positive Rate          0.949291
+True Negative Rate          0.0507063
+False Positive Rate         0
+False Negative Rate         2.8706e-06
+Total Duration Nuspell      12822247870
+Total Duration Hunspell     24917605792
+Minimum Duration Nuspell    1007
+Minimum Duration Hunspell   1006
+Average Duration Nuspell    36807
+Average Duration Hunspell   71528
+Maximum Duration Nuspell    1226282
+Maximum Duration Hunspell   1119733
+Maximum Speedup             31.7047
+Accuracy                    0.999997
+Precision                   1
+Speedup                     1.94331

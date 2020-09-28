@@ -1,0 +1,26 @@
+Word File                   wukrainian_1.7.1-2/ukrainian
+Total Words Spelling        1485662
+Positives Nuspell           1304927
+Positives Hunspell          1304924
+Negatives Nuspell           180735
+Negatives Hunspell          180738
+True Positives              1304924
+True Negatives              180735
+False Positives             3
+False Negatives             0
+True Positive Rate          0.878345
+True Negative Rate          0.121653
+False Positive Rate         2.0193e-06
+False Negative Rate         0
+Total Duration Nuspell      19912210610
+Total Duration Hunspell     22393314657
+Minimum Duration Nuspell    821
+Minimum Duration Hunspell   1761
+Average Duration Nuspell    13402
+Average Duration Hunspell   15072
+Maximum Duration Nuspell    260600
+Maximum Duration Hunspell   186243
+Maximum Speedup             69.6312
+Accuracy                    0.999998
+Precision                   0.999998
+Speedup                     1.1246

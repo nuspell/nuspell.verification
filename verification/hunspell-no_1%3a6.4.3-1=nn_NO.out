@@ -1,0 +1,26 @@
+Word File                   wnorwegian_2.2-4/nynorsk
+Total Words Spelling        627719
+Positives Nuspell           488020
+Positives Hunspell          488020
+Negatives Nuspell           139699
+Negatives Hunspell          139699
+True Positives              488020
+True Negatives              139699
+False Positives             0
+False Negatives             0
+True Positive Rate          0.77745
+True Negative Rate          0.22255
+False Positive Rate         0
+False Negative Rate         0
+Total Duration Nuspell      2652674178
+Total Duration Hunspell     2700176294
+Minimum Duration Nuspell    177
+Minimum Duration Hunspell   459
+Average Duration Nuspell    4225
+Average Duration Hunspell   4301
+Maximum Duration Nuspell    320088
+Maximum Duration Hunspell   133089
+Maximum Speedup             121.432
+Accuracy                    1
+Precision                   1
+Speedup                     1.01791

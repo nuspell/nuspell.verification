@@ -1,0 +1,636 @@
+{
+  "description": "Language, dict name, word list package and word list file",
+  "license": "https://github.com/nuspell/nuspell/blob/master/COPYING.LESSER",
+  "author": "Sander van Geloven",
+  "languages": {
+    "Afrikaans": {
+      "dicts": [
+        "af",
+        "af_ZA"
+      ]
+    },
+    "Aragonese": {
+      "dicts": [
+        "an",
+        "an_ES"
+      ]
+    },
+    "Arabic": {
+      "dicts": [
+        "ar"
+      ]
+    },
+    "Belarusian": {
+      "dicts": [
+        "be",
+        "be_BY"
+      ]
+    },
+    "Bulgarian": {
+      "dicts": [
+        "bg",
+        "bg_BG"
+      ],
+      "package": "wbulgarian",
+      "wordlist": "bulgarian"
+    },
+    "Bengali": {
+      "dicts": [
+        "bn",
+        "bn_BD"
+      ]
+    },
+    "Classical Tibetan": {
+      "dicts": [
+        "bo"
+      ]
+    },
+    "Breton": {
+      "dicts": [
+        "br",
+        "br_FR"
+      ]
+    },
+    "Bosnian": {
+      "dicts": [
+        "bs",
+        "bs_BA"
+      ]
+    },
+    "Catalan": {
+      "dicts": [
+        "ca",
+        "ca_ES"
+      ],
+      "package": "wcatalan",
+      "wordlist": "catalan"
+    },
+    "Valencian": {
+      "dicts": [
+        "ca_ES-valencia"
+      ]
+    },
+    "Czech": {
+      "dicts": [
+        "cs",
+        "cs_CZ"
+      ]
+    },
+    "Danish": {
+      "dicts": [
+        "da",
+        "da_DK"
+      ],
+      "package": "wdanish",
+      "wordlist": "danish"
+    },
+    "Austrian German": {
+      "dicts": [
+        "de_AT",
+        "de_AT_frami"
+      ]
+    },
+    "Swiss German": {
+      "dicts": [
+        "de_CH",
+        "de_CH_frami"
+      ],
+      "package": "wswiss",
+      "wordlist": "swiss"
+    },
+    "German": {
+      "dicts": [
+        "de_DE",
+        "de_DE_frami",
+        "de_BE",
+        "de_LU"
+      ],
+      "package": "wngerman",
+      "wordlist": "ngerman"
+    },
+    "Old German": {
+      "dicts": [
+        "de_DE-1901"
+      ],
+      "package": "wogerman",
+      "wordlist": "ogerman"
+    },
+    "Dzongkha": {
+      "dicts": [
+        "dz"
+      ]
+    },
+    "Modern Greek": {
+      "dicts": [
+        "el",
+        "el_GR"
+      ]
+    },
+    "Australian English": {
+      "dicts": [
+        "en_AU"
+      ]
+    },
+    "Canadian English": {
+      "dicts": [
+        "en_CA"
+      ],
+      "package": "wcanadian",
+      "wordlist": "canadian-english"
+    },
+    "British English": {
+      "dicts": [
+        "en_GB"
+      ],
+      "package": "wbritish",
+      "wordlist": "british-english"
+    },
+    "American English": {
+      "dicts": [
+        "en_US"
+      ],
+      "package": "wamerican",
+      "wordlist": "american-english"
+    },
+    "South African English": {
+      "dicts": [
+        "en_ZA"
+      ]
+    },
+    "Esperanto": {
+      "dicts": [
+        "eo"
+      ],
+      "package": "wesperanto",
+      "wordlist": "esperanto"
+    },
+    "Spanish": {
+      "dicts": [
+        "es",
+        "es_ES",
+        "es_AR",
+        "es_BO",
+        "es_CL",
+        "es_CO",
+        "es_CR",
+        "es_CU",
+        "es_DO",
+        "es_EC",
+        "es_GT",
+        "es_HN",
+        "es_MX",
+        "es_NI",
+        "es_PA",
+        "es_PE",
+        "es_PR",
+        "es_PY",
+        "es_SV",
+        "es_US",
+        "es_UY",
+        "es_VE"
+      ],
+      "package": "wspanish",
+      "wordlist": "spanish"
+    },
+    "Estonian": {
+      "dicts": [
+        "et",
+        "et_EE"
+      ]
+    },
+    "Basque": {
+      "dicts": [
+        "eu"
+      ]
+    },
+    "Farsi": {
+      "dicts": [
+        "fa",
+        "fa_IR"
+      ]
+    },
+    "Faroese": {
+      "dicts": [
+        "fo",
+        "fo_FO"
+      ],
+      "package": "wfaroese",
+      "wordlist": "faroese"
+    },
+    "French": {
+      "dicts": [
+        "fr",
+        "fr_FR",
+        "fr_BE",
+        "fr_CA",
+        "fr_CH",
+        "fr_LU",
+        "fr_MC"
+      ],
+      "package": "wfrench",
+      "wordlist": "french"
+    },
+    "Frisian": {
+      "dicts": [
+        "fy",
+        "fy_NL"
+      ],
+      "package": "wfrisian",
+      "wordlist": "frisian"
+    },
+    "Irish": {
+      "dicts": [
+        "ga",
+        "ga_IE"
+      ],
+      "package": "wirish",
+      "wordlist": "irish"
+    },
+    "Scottish Gaelic": {
+      "dicts": [
+        "gd",
+        "gd_GB"
+      ],
+      "package": "wgaelic",
+      "wordlist": "gaelic"
+    },
+    "Galician": {
+      "dicts": [
+        "gl",
+        "gl_ES"
+      ],
+      "package": "wgalician-minimos",
+      "wordlist": "galician-minimos"
+    },
+    "Manx Gaelic": {
+      "dicts": [
+        "gv",
+        "gv_GB"
+      ],
+      "package": "wmanx",
+      "wordlist": "manx"
+    },
+    "Gujarati": {
+      "dicts": [
+        "gu",
+        "gu_IN"
+      ]
+    },
+    "Guarani": {
+      "dicts": [
+        "gug",
+        "gug_PY"
+      ]
+    },
+    "Hebrew": {
+      "dicts": [
+        "he",
+        "he_IL"
+      ]
+    },
+    "Hindi": {
+      "dicts": [
+        "hi",
+        "hi_IN"
+      ]
+    },
+    "Croatian": {
+      "dicts": [
+        "hr",
+        "hr_HR"
+      ]
+    },
+    "Hungarian": {
+      "dicts": [
+        "hu",
+        "hu_HU",
+        "hu_HU_u8"
+      ]
+    },
+    "Armenian": {
+      "dicts": [
+        "hy",
+        "hy_AM"
+      ]
+    },
+    "Indonesian": {
+      "dicts": [
+        "id",
+        "id_ID"
+      ]
+    },
+    "Icelandic": {
+      "dicts": [
+        "is",
+        "is_IS"
+      ]
+    },
+    "Italian": {
+      "dicts": [
+        "it",
+        "it_IT",
+        "it_CH"
+      ],
+      "package": "witalian",
+      "wordlist": "italian"
+    },
+    "Kazakh": {
+      "dicts": [
+        "kk",
+        "kk_KZ"
+      ]
+    },
+    "Kurmanji (Latin script)": {
+      "dicts": [
+        "kmr",
+        "kmr_Latn"
+      ]
+    },
+    "Korean": {
+      "dicts": [
+        "ko"
+      ]
+    },
+    "Laotian": {
+      "dicts": [
+        "lo",
+        "lo_LA"
+      ]
+    },
+    "Lithuanian": {
+      "dicts": [
+        "lt",
+        "lt_LT"
+      ]
+    },
+    "Latvian": {
+      "dicts": [
+        "lv",
+        "lv_LV"
+      ]
+    },
+    "Malayalam": {
+      "dicts": [
+        "ml",
+        "ml_IN"
+      ]
+    },
+    "Malay": {
+      "dicts": [
+        "ms"
+      ]
+    },
+    "Bokmål": {
+      "dicts": [
+        "nb",
+        "nb_NO"
+      ],
+      "package": "wnorwegian",
+      "wordlist": "bokmaal"
+    },
+    "Nepalese": {
+      "dicts": [
+        "ne",
+        "ne_NP"
+      ]
+    },
+    "Dutch": {
+      "dicts": [
+        "nl",
+        "nl_NL",
+        "nl_BE",
+        "nl_SR",
+        "nl_AN",
+        "nl_AW"
+      ],
+      "package": "wdutch",
+      "wordlist": "dutch"
+    },
+    "Nynorsk": {
+      "dicts": [
+        "nn",
+        "nn_NO"
+      ],
+      "package": "wnorwegian",
+      "wordlist": "nynorsk"
+    },
+    "Ndebele": {
+      "dicts": [
+        "nr",
+        "nr_ZA"
+      ]
+    },
+    "Northern Sotho": {
+      "dicts": [
+        "ns",
+        "ns_ZA"
+      ]
+    },
+    "Occitan": {
+      "dicts": [
+        "oc",
+        "oc_FR"
+      ]
+    },
+    "Polish": {
+      "dicts": [
+        "pl",
+        "pl_PL"
+      ],
+      "package": "wpolish",
+      "wordlist": "polish"
+    },
+    "Brazilian": {
+      "dicts": [
+        "pt_BR"
+      ],
+      "package": "wbrazilian",
+      "wordlist": "brazilian"
+    },
+    "Portuguese": {
+      "dicts": [
+        "pt",
+        "pt_PT"
+      ],
+      "package": "wportuguese",
+      "wordlist": "portuguese"
+    },
+    "Romanian": {
+      "dicts": [
+        "ro",
+        "ro_RO"
+      ]
+    },
+    "Russian": {
+      "dicts": [
+        "ru",
+        "ru_RU"
+      ]
+    },
+    "North Sámi": {
+      "dicts": [
+        "se"
+      ]
+    },
+    "Sinhala": {
+      "dicts": [
+        "si",
+        "si_LK"
+      ]
+    },
+    "Slovak": {
+      "dicts": [
+        "sk",
+        "sk_SK"
+      ]
+    },
+    "Slovene": {
+      "dicts": [
+        "sl",
+        "sl_SI"
+      ]
+    },
+    "Albanian": {
+      "dicts": [
+        "sq",
+        "sq_AL"
+      ]
+    },
+    "Serbian (Cyrillic script)": {
+      "dicts": [
+        "sr",
+        "sr_RS"
+      ]
+    },
+    "Serbian (Latin script)": {
+      "dicts": [
+        "sr_Latn_RS"
+      ]
+    },
+    "Swazi": {
+      "dicts": [
+        "ss",
+        "ss_ZA"
+      ]
+    },
+    "Southern Sotho": {
+      "dicts": [
+        "st",
+        "st_ZA"
+      ]
+    },
+    "Finland Swedish": {
+      "dicts": [
+        "sv_FI"
+      ]
+    },
+    "Swedish": {
+      "dicts": [
+        "sv",
+        "sv_SE"
+      ],
+      "package": "wswedish",
+      "wordlist": "swedish"
+    },
+    "Swahili": {
+      "dicts": [
+        "sw",
+        "sw_TZ"
+      ]
+    },
+    "Telugu": {
+      "dicts": [
+        "te",
+        "te_IN"
+      ]
+    },
+    "Thai": {
+      "dicts": [
+        "th",
+        "th_TH"
+      ]
+    },
+    "Tilburgs": {
+      "dicts": [
+        "tib"
+      ],
+      "package": "wtilburgs",
+      "wordlist": "tilburgs"
+    },
+    "Tagalog": {
+      "dicts": [
+        "tl"
+      ]
+    },
+    "Klingon": {
+      "dicts": [
+        "tlh"
+      ],
+      "package": "wklingon",
+      "wordlist": "klingon"
+    },
+    "Klingon (Latin script)": {
+      "dicts": [
+        "tlh_Latn"
+      ],
+      "package": "wklingon",
+      "wordlist": "klingon-latin"
+    },
+    "Tswana": {
+      "dicts": [
+        "tn",
+        "tn_ZA"
+      ]
+    },
+    "Tsonga": {
+      "dicts": [
+        "ts",
+        "ts_ZA"
+      ]
+    },
+    "Turkisch": {
+      "dicts": [
+        "tr",
+        "tr_TR"
+      ]
+    },
+    "Ukrainian": {
+      "dicts": [
+        "uk",
+        "uk_UA"
+      ],
+      "package": "wukrainian",
+      "wordlist": "ukrainian"
+    },
+    "Uzbek": {
+      "dicts": [
+        "uz",
+        "uz_UZ"
+      ]
+    },
+    "Venda": {
+      "dicts": [
+        "ve",
+        "ve_ZA"
+      ]
+    },
+    "Vietnamese": {
+      "dicts": [
+        "vi",
+        "vi_VN"
+      ]
+    },
+    "Xhosa": {
+      "dicts": [
+        "xh",
+        "xh_ZA"
+      ]
+    },
+    "Zulu": {
+      "dicts": [
+        "zu",
+        "zu_ZA"
+      ]
+    }
+  }
+}

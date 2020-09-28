@@ -1,0 +1,26 @@
+Word File                   wbritish_2018.04.16-1/british-english
+Total Words Spelling        101921
+Positives Nuspell           89454
+Positives Hunspell          89454
+Negatives Nuspell           12467
+Negatives Hunspell          12467
+True Positives              89454
+True Negatives              12467
+False Positives             0
+False Negatives             0
+True Positive Rate          0.87768
+True Negative Rate          0.12232
+False Positive Rate         0
+False Negative Rate         0
+Total Duration Nuspell      605149430
+Total Duration Hunspell     435098402
+Minimum Duration Nuspell    885
+Minimum Duration Hunspell   1028
+Average Duration Nuspell    5937
+Average Duration Hunspell   4268
+Maximum Duration Nuspell    135105
+Maximum Duration Hunspell   224747
+Maximum Speedup             54.6741
+Accuracy                    1
+Precision                   1
+Speedup                     0.718993

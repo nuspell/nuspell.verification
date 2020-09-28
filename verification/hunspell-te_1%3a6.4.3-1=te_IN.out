@@ -1,0 +1,26 @@
+Word File                   hunspell-te_1%3a6.4.3-1/te_IN
+Total Words Spelling        125082
+Positives Nuspell           125082
+Positives Hunspell          125082
+Negatives Nuspell           0
+Negatives Hunspell          0
+True Positives              125082
+True Negatives              0
+False Positives             0
+False Negatives             0
+True Positive Rate          1
+True Negative Rate          0
+False Positive Rate         0
+False Negative Rate         0
+Total Duration Nuspell      156392010
+Total Duration Hunspell     273919834
+Minimum Duration Nuspell    511
+Minimum Duration Hunspell   805
+Average Duration Nuspell    1250
+Average Duration Hunspell   2189
+Maximum Duration Nuspell    93221
+Maximum Duration Hunspell   111098
+Maximum Speedup             127.114
+Accuracy                    1
+Precision                   1
+Speedup                     1.7515

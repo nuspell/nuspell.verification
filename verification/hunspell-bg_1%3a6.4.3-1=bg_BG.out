@@ -1,0 +1,26 @@
+Word File                   wbulgarian_4.1-7/bulgarian
+Total Words Spelling        820252
+Positives Nuspell           820252
+Positives Hunspell          820252
+Negatives Nuspell           0
+Negatives Hunspell          0
+True Positives              820252
+True Negatives              0
+False Positives             0
+False Negatives             0
+True Positive Rate          1
+True Negative Rate          0
+False Positive Rate         0
+False Negative Rate         0
+Total Duration Nuspell      7974746492
+Total Duration Hunspell     6369812660
+Minimum Duration Nuspell    702
+Minimum Duration Hunspell   1122
+Average Duration Nuspell    9722
+Average Duration Hunspell   7765
+Maximum Duration Nuspell    334174
+Maximum Duration Hunspell   169389
+Maximum Speedup             82.7956
+Accuracy                    1
+Precision                   1
+Speedup                     0.798748

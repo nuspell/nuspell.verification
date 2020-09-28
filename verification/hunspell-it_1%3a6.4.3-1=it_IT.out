@@ -1,0 +1,26 @@
+Word File                   witalian_1.10/italian
+Total Words Spelling        116758
+Positives Nuspell           116078
+Positives Hunspell          116078
+Negatives Nuspell           680
+Negatives Hunspell          680
+True Positives              116078
+True Negatives              680
+False Positives             0
+False Negatives             0
+True Positive Rate          0.994176
+True Negative Rate          0.00582401
+False Positive Rate         0
+False Negative Rate         0
+Total Duration Nuspell      1344778698
+Total Duration Hunspell     803750039
+Minimum Duration Nuspell    645
+Minimum Duration Hunspell   555
+Average Duration Nuspell    11517
+Average Duration Hunspell   6883
+Maximum Duration Nuspell    101222
+Maximum Duration Hunspell   114054
+Maximum Speedup             13.3082
+Accuracy                    1
+Precision                   1
+Speedup                     0.597682

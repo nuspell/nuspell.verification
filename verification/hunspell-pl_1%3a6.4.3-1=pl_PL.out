@@ -1,0 +1,26 @@
+Word File                   wpolish_20190812-1/polish
+Total Words Spelling        4142753
+Positives Nuspell           3765526
+Positives Hunspell          3765526
+Negatives Nuspell           377227
+Negatives Hunspell          377227
+True Positives              3765526
+True Negatives              377227
+False Positives             0
+False Negatives             0
+True Positive Rate          0.908943
+True Negative Rate          0.0910571
+False Positive Rate         0
+False Negative Rate         0
+Total Duration Nuspell      159433900148
+Total Duration Hunspell     88330617351
+Minimum Duration Nuspell    551
+Minimum Duration Hunspell   480
+Average Duration Nuspell    38485
+Average Duration Hunspell   21321
+Maximum Duration Nuspell    1823125
+Maximum Duration Hunspell   2112871
+Maximum Speedup             32.0926
+Accuracy                    1
+Precision                   1
+Speedup                     0.554027
