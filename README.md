@@ -114,12 +114,11 @@ one can use a provided word list and another needs to use a generated word list.
 # Analysis
 
 Dictionary files and word list files have been analyzed thoroughly with also
-examination of the character histograms. Overview reports can be found at
-https://github.com/nuspell/misc-nuspell/blob/master/dictionaries/Dictionary-Files.md ,
-https://github.com/nuspell/misc-nuspell/blob/master/dictionaries/Dictionary-Types.md and
-https://github.com/nuspell/misc-nuspell/blob/master/wordlists/Word-List-Files.md
+examination of the character histograms. Overview reports from previous analysis
+can be found at in the directory `doc`.
 
-From this, issues came forward. there were reported and are monitored in
+From investigating the dictionaries closely, issues came forward. These were
+reported and are monitored in
 https://github.com/nuspell/nuspell/wiki/Dictionaries-and-Contacts
 
 Issues are getting resolved by the upstream authors or package maintainers.
@@ -291,3 +290,7 @@ By default, the script `run.py` will do the following actions:
 This is useful for automated verification testing in .e.g. CI. Note that the
 download, extract and compress actions are only needed once so that the data
 needed for the tests can be stored in this repository.
+
+# Other
+
+All typical processing times here are from an i7-10510U CPU @ 1.80GHz.
